@@ -12,7 +12,7 @@ The goal of this project is to build a robust classifier that predicts the speci
 
 This project demonstrates the full data science workflow, from data cleaning to model evaluation and final visualization.
 
-For more details, check out the final report on the project : [Final_Report.pdf](/STA2453/Zooplankton_Final_Report.pdf)
+For more details, check out the final report on the project : [Final_Report.pdf](/Zooplankton_Final_Report.pdf)
 
 ---
 
@@ -26,11 +26,11 @@ For more details, check out the final report on the project : [Final_Report.pdf]
 
 ### EDA
 
-The [EDA](/STA2453/EDA/) folder contains the complete exploratory data analysis workflow for the project. It includes code for data preprocessing and cleaning, merging the geometric and environmental datasets, performing descriptive analysis, and generating key visualizations. This step serves as the foundation for understanding data quality, feature distributions, class imbalances, and correlations—providing essential insights to guide the subsequent modeling phase.
+The [EDA](/EDA/) folder contains the complete exploratory data analysis workflow for the project. It includes code for data preprocessing and cleaning, merging the geometric and environmental datasets, performing descriptive analysis, and generating key visualizations. This step serves as the foundation for understanding data quality, feature distributions, class imbalances, and correlations—providing essential insights to guide the subsequent modeling phase.
 
 ### Modelling
 
-The [Modelling](/STA2453/Modelling/) folder contains multiple juptor notebook file that shows the code and the results for multiple attempt in different modelling methods. The [Random_Forest](/STA2453/Modelling/Random_Forest.ipynb) notebook contains the code for modelling with solely the 7 target class, while the other random forest notebook contains the modelling approach for all classes.
+The [Modelling](/Modelling/) folder contains multiple juptor notebook file that shows the code and the results for multiple attempt in different modelling methods. The [Random_Forest](/Modelling/Random_Forest.ipynb) notebook contains the code for modelling with solely the 7 target class, while the other random forest notebook contains the modelling approach for all classes.
 
 ## How to Reproduce the Work
 
